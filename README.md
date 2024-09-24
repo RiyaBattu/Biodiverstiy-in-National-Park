@@ -34,6 +34,8 @@ The project uses two primary datasets:
    - `Conservation Status`: The conservation status (e.g., endangered, vulnerable, least concern).
 
 ## Analysis Steps
+<image src = "https://github.com/RiyaBattu/Biodiverstiy-in-National-Park/blob/main/analysis.png">
+
 
 1. **Species Observation Analysis**:
    - Calculate the total observations per species across parks.
